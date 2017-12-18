@@ -5,7 +5,7 @@
 </head>
 
 <body><center>
- <p> <img src="../网页文件/我的家乡/2017-12-18_143616.png" width="1227" height="695" /></p><br /><br />
+ <p> <img src="https://github.com/jidaozuoye/zzq/blob/master/%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1/2017-12-18_143616.png" width="1227" height="695" /></p><br /><br />
  <p> <img src="../网页文件/我的家乡/2017-12-18_143629.png" width="1218" height="693" /></p><br /><br />
 <p>  <img src="../网页文件/我的家乡/2017-12-18_143641.png" width="1212" height="689" /></p><br /><br />
 <p>  <img src="../网页文件/我的家乡/2017-12-18_143655.png" width="1212" height="692" /></p><br /><br />
